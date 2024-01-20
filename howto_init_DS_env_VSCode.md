@@ -14,3 +14,6 @@
 
 8. Create a notebook (with the extension .ipynb) and Select Kernel via GUI 
 
+![2](https://github.com/angirov/howtos/assets/19487247/46a99910-5d12-4aad-adc0-28c92badfc32)
+
+![1](https://github.com/angirov/howtos/assets/19487247/45853f33-a1ee-4770-9bd3-df6053e019b1)
